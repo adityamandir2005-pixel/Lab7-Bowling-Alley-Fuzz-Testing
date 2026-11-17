@@ -1,0 +1,9 @@
+FFFFFF.                                                                  [100%]
+=========================== short test summary info ===========================
+FAILED LAB7/test_bowling_alley_parser.py::test_format_player_name_handles_arbitrary_input
+FAILED LAB7/test_bowling_alley_parser.py::test_format_player_name_normalizes_and_handles_invalid_input
+FAILED LAB7/test_bowling_alley_parser.py::test_parse_frame_handles_arbitrary_input
+FAILED LAB7/test_bowling_alley_parser.py::test_parse_frame_parses_notation_and_rejects_invalid_frames
+FAILED LAB7/test_bowling_alley_parser.py::test_parse_scoreboard_handles_arbitrary_input
+FAILED LAB7/test_bowling_alley_parser.py::test_parse_scoreboard_skips_malformed_entries
+6 failed, 1 passed in 0.43s

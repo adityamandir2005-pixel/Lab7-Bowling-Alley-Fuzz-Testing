@@ -1,0 +1,8 @@
+==== Running format_player_name ====
+Enter a player name for the scoreboard: Scoreboard name: Asha
+
+==== Running parse_frame ====
+Enter a frame as X (strike), 7/ (spare) or two digits (e.g. 45): Pins (first roll, second roll): (10, 0)
+
+==== Running parse_scoreboard ====
+Enter scores as NAME:SCORE separated by commas (e.g. Asha:150,Ravi:132): Scoreboard: {'Asha': 150, 'Ravi': 132}
